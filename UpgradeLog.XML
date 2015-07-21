@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AHRSInterface">
+</Property><Property Name="Solution File" Value="C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\AHRSInterface.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\AHRSInterface.suo">
+</Property><Property Name="Date" Value="2013年10月2日">
+</Property><Property Name="Time" Value="下午 21:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AHRSInterface.sln" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AHRSInterface.suo" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface.suo">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\AHRSInterface.csproj" Description="Project file successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\AHRSInterface.csproj">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\AHRSInterface.csproj.user" Description="Project user file successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\AHRSInterface.csproj.user">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\AHRS.cs" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\AHRS.cs">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Form1.cs" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Form1.cs">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Log.cs" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Log.cs">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Log.Designer.cs" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Log.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Packet.cs" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Packet.cs">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Program.cs" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Program.cs">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Form1.resx" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Form1.resx">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Log.resx" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Log.resx">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Rsxo\Desktop\ECS-MC-0207\Motor_Interface\Backup\AHRSInterface\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\AHRSInterface.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AHRSInterface" Source="AHRSInterface\AHRSInterface.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AHRSInterface.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AHRSInterface.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AHRSInterface" Source="AHRSInterface\AHRSInterface.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
